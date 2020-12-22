@@ -200,6 +200,6 @@ Donations
 cpuminer-opt-sugarchain has no fees of any kind but donations are accepted.
 
  BTC: 3Gcbpn4QU4iGibZox378VdEJvjx7Z7J7Tr (cryptozeny)  
- SUGAR: sugar1qcu07vm47ceh7lec3umx7nv7e8tm8r8zw4l2uyx (cryptozeny)  
+ SUGAR: sugar1qwxqzyxqzkc84p95fjrvg3gd7qvf0a7jhmyudju (cryptozeny)  
 
 Happy mining!
